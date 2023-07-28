@@ -15,7 +15,8 @@ The annotations presented here are the outcome of the same procedure used for th
 
 In this repository, you will find a collection of linguistic annotations, generated semi-automatically using a [Multi-Task Sequence Prediction System](https://gricad-gitlab.univ-grenoble-alpes.fr/dinarelm/tarc-multi-task-system): 
 
-* Token classification: Tokens are categorized into three groups - *arabizi* (representing Arabic words written in Latin script), *foreign* (indicating foreign words), and *emotag* (denoting emoticons or smileys tags). 
+* Transliteration into Arabizi (*Arabish* level)
+* Token classification: Tokens are categorized into three groups - *arabizi* (representing Arabic words written in Latin script), *foreign* (indicating foreign words), and *emotag* (denoting emoticons or smileys tags).
 * Normalization in Arabic Script of the tokens classified as *arabizi* (following the CODA* convention [[1]](#1)).
 * Tokenization of the *CODAfied* texts.
 * Part-of-Speech tagging for the *arabizi* tokens.
