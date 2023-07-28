@@ -1,4 +1,4 @@
-# MADAR-TUN
+# MADAR-TUN LINGUISTIC ANNOTATION
 2,000 Tunisian sentences of the MADAR corpus, semi-automatically annotated with several linguistic information (same procedure of TArC annotation, see the TArC repository for more information) 
 
 ## Linguistic information provided to the Tunisian-MADAR Corpus
