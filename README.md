@@ -2,7 +2,7 @@
 
 This repository provides a brief description and houses the linguistic annotations for the Tunisian part of the MADAR corpus (Bouamoret et al., 2018). These annotations were created during a research project outlined in the following paper, which has been accepted for presentation at the LDK conference scheduled to be held in Vienna in September 2023: 
 
-* [An Empirical Analysis of Task Relations in the Multi-Task Annotation of an Arabizi Corpus, by Elisa Gugliotta, Marco Dinarelli](http://2023.ldk-conf.org/programme/)
+* [Gugliotta, E. Dinarelli, M. (2023). *An Empirical Analysis of Task Relations in the Multi-Task Annotation of an Arabizi Corpus*](http://2023.ldk-conf.org/programme/)
 
 The annotations presented here are the outcome of the same procedure used for the TArC corpus. For additional information and in-depth details, please refer to the TArC repository, or consult the following papers. The papers shed light on the methodology employed and provide a comprehensive understanding of the annotation process carried out for both the MADAR and TArC corpora.
 
